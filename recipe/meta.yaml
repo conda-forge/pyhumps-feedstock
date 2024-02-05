@@ -32,10 +32,11 @@ test:
 
 about:
   home: https://github.com/nficano/humps
-  summary: 🐫  Convert strings (and dictionary keys) between snake case, camel case and pascal case in Python. Inspired by Humps for Node
+  summary: Convert strings (and dictionary keys) between snake case, camel case and pascal case in Python.
   license: Unlicense
   license_file: LICENSE
 
 extra:
   recipe-maintainers:
     - simstoykov
+    - thewchan
