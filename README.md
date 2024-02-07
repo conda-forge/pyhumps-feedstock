@@ -7,7 +7,7 @@ Home: https://github.com/nficano/humps
 
 Package license: Unlicense
 
-Summary: 🐫  Convert strings (and dictionary keys) between snake case, camel case and pascal case in Python. Inspired by Humps for Node
+Summary: Convert strings (and dictionary keys) between snake case, camel case and pascal case in Python.
 
 Current build status
 ====================
@@ -144,4 +144,5 @@ Feedstock Maintainers
 =====================
 
 * [@simstoykov](https://github.com/simstoykov/)
+* [@thewchan](https://github.com/thewchan/)
 
