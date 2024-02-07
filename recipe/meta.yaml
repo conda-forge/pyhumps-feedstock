@@ -1,5 +1,5 @@
 {% set name = "pyhumps" %}
-{% set version = "3.7.3" %}
+{% set version = "3.8.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pyhumps-{{ version }}.tar.gz
-  sha256: 6eec3741cf917009adb16f6b6b883429edb1c6286531bd9f3977ba41938b0a09
+  sha256: 498026258f7ee1a8e447c2e28526c0bea9407f9a59c03260aee4bd6c04d681a3
 
 build:
   noarch: python
